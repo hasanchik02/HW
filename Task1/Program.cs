@@ -17,3 +17,7 @@
     }
     return array;
 }
+
+const int SIZE = 4;
+string [] NewArray = Array(SIZE);
+Console.WriteLine(string.Join(", ", NewArray));
